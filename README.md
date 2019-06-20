@@ -12,29 +12,29 @@
 
 ## Versiones Instaladas
 
-##### Ionic:
+#### Ionic:
 
-   Ionic CLI                     : 5.0.3
-   Ionic Framework               : @ionic/angular 4.5.0
-   @angular-devkit/build-angular : 0.13.9
-   @angular-devkit/schematics    : 7.3.9
-   @angular/cli                  : 7.3.9
-   @ionic/angular-toolkit        : 1.5.1
+   Ionic CLI                     : 5.0.3   
+   Ionic Framework               : @ionic/angular 4.5.0   
+   @angular-devkit/build-angular : 0.13.9   
+   @angular-devkit/schematics    : 7.3.9   
+   @angular/cli                  : 7.3.9   
+   @ionic/angular-toolkit        : 1.5.1   
 
-##### Cordova:
+#### Cordova:
 
-   Cordova CLI       : 9.0.0 (cordova-lib@9.0.1)
-   Cordova Platforms : none
-   Cordova Plugins   : not available
+   Cordova CLI       : 9.0.0 (cordova-lib@9.0.1)   
+   Cordova Platforms : none   
+   Cordova Plugins   : not available   
 
-##### Utility:
+#### Utility:
 
-   cordova-res : not installed
-   native-run  : not installed
+   cordova-res : not installed   
+   native-run  : not installed   
 
-##### System:
+#### System:
 
-   Android SDK Tools : 26.1.1 (C:\Users\ajaramim\AppData\Local\Android\sdk)
-   NodeJS            : v8.12.0 (C:\Program Files\nodejs\node.exe)
-   npm               : 6.4.1
-   OS                : Windows 7
+   Android SDK Tools : 26.1.1 (C:\Users\ajaramim\AppData\Local\Android\sdk)   
+   NodeJS            : v8.12.0 (C:\Program Files\nodejs\node.exe)   
+   npm               : 6.4.1   
+   OS                : Windows 7   
